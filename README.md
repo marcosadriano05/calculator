@@ -11,6 +11,8 @@
 
 Calculator produced with the purpose of training skills like JavaScript language, HTML, CSS, programming logic, DOM manipulation and frontend design.
 
+Link para o projeto: [Calculator](https://marcosadriano05.github.io/calculator)
+
 ## :rocket: Technologies
 
 - HTML
